@@ -1,5 +1,5 @@
-# Clean-Nettoyer-Solution-Visual-Studio-2008-2013
-Clean a solution of VS2008-VS2013  / Nettoyer une solution du VS2008-VS2013  
+# Clean-Nettoyer-Solution-Visual-Studio-2008-2015  
+Clean a solution of VS2008-VS2013  / Nettoyer une solution du VS2008-VS2015  
 1- Put the batfile Clean.bat and execute it in your folder of a solution or in the folder where there are several solutions. 
 / Mettez et exécutez le batfile Clean.bat dans un répertoire d'une solution ou dans un dossier qui contient plusieurs solutions.  
 2- It deletes all of the debug folders and release files, etc. You can check and modify them below:
